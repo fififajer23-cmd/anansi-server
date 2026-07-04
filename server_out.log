@@ -1,0 +1,13 @@
+Server listening at http://0.0.0.0:8080
+XOR key length: 107
+[2026-05-11T23:09:57.017Z] GET / [body:0B]
+[2026-05-11T23:10:03.679Z] PUT / [body:24B]
+  -> Decrypted command: "unknown"
+  -> Raw decrypted: {"test":"hello"}
+[2026-05-11T23:10:15.767Z] PUT / [body:624B]
+  -> Decrypted command: {"adfa":"7a26c359-5ec5-469c-bdc0-daa6be129d67","version":0,"reviewVersion":13}
+  -> Raw decrypted: {"command":{"adfa":"7a26c359-5ec5-469c-bdc0-daa6be129d67","version":0,"reviewVersion":13},"header":{"platform":31,"verifySI":-1,"deviceUdid":"5181fe99cf95b21dc5bb14754215591d","gameId":"city_ar","deviceType":"TECNO KM7k","locale":"ar","lang":"ar-EG","deviceFamily":"Android","deviceVersion":"15","tim
+[2026-05-11T23:10:26.780Z] PUT / [body:624B]
+  -> Decrypted command: {"adfa":"7a26c359-5ec5-469c-bdc0-daa6be129d67","version":0,"reviewVersion":13}
+  -> Raw decrypted: {"command":{"adfa":"7a26c359-5ec5-469c-bdc0-daa6be129d67","version":0,"reviewVersion":13},"header":{"platform":31,"verifySI":-1,"deviceUdid":"5181fe99cf95b21dc5bb14754215591d","gameId":"city_ar","deviceType":"TECNO KM7k","locale":"ar","lang":"ar-EG","deviceFamily":"Android","deviceVersion":"15","tim
+[2026-05-11T23:10:43.421Z] GET / [body:0B]
